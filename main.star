@@ -1,4 +1,4 @@
-MSG = "dependency-loaded-from-main"
+MSG = "dependency-loaded-from-another-message-branch"
 
 def run(plan, args):
     plan.print("Sample dependency package loaded.")
